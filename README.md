@@ -5,3 +5,8 @@ Number theory and encryption tinkering
 
 - Dependecies:
 `pip install rsa`
+
+>> Virtual Environment
+>> python3 -m venv .venv
+>> ls .venv/bin/
+>> . .venv/bin/activate
