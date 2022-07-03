@@ -7,6 +7,9 @@ Number theory and encryption tinkering
 `pip install rsa`
 
 >> Virtual Environment
->> python3 -m venv .venv
->> ls .venv/bin/
->> . .venv/bin/activate
+
+```
+python3 -m venv .venv
+ls .venv/bin/
+. .venv/bin/activate
+```
