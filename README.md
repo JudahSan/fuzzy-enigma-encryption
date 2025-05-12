@@ -1,4 +1,4 @@
-# Repo moved to [new org](https://github.com/mein-python-projects/fuzzy-enigma-encryption)
+<!-- # Repo moved to [new org](https://github.com/mein-python-projects/fuzzy-enigma-encryption) -->
 
 # fuzzy-enigma-encryption
 Number theory and encryption tinkering 
